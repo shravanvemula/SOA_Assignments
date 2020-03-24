@@ -1,0 +1,5 @@
+Review the SharingApp application provided. While you review the code, determine which classes need their variables to be stored remotely.
+Once you have identified what needs to be stored, create a small UML Class Diagram to show which data should be stored.
+You only have to include the classes and corresponding attributes that will have data stored remotely. 
+You shouldn’t have to include every class in the app. It is okay to leave methods out of the diagram for the purpose of this assignment.
+
